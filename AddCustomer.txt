@@ -27,9 +27,13 @@
 
 'Valid input- AddCustomer
 AddCustomer "julia", "roberts", "1100Sunset blvd", "Hollywood", "CA", "98286"
+AddCustomer "Ann", "Mary", "1100Sunset blvd", "Hollywood", "MA", "98286"
+AddCustomer "Jancy", "roy", "1100Sunset blvd", "Hollywood", "NY", "98286"
+AddCustomer "Eva", "Loyid", "1100Sunset blvd", "Hollywood", "NY", "98286"
 
 'Invalid input- AddCustomer without Firstname
 AddCustomer "","john", "1100Sunset blvd", "Hollywood", "CA", "98286"
+
 
 'Invalid input- AddCustomer without Lastname
 AddCustomer "nancy", "", "1100Sunset blvd", "Hollywood", "CA", "98286" 
