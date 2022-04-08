@@ -25,6 +25,8 @@
 ''*****************************************
 ''SCRIPT
 
+'' To test new ideas
+
 'Valid input- AddCustomer
 AddCustomer "julia", "roberts", "1100Sunset blvd", "Hollywood", "CA", "98286"
 AddCustomer "Ann", "Mary", "1100Sunset blvd", "Hollywood", "MA", "98286"
